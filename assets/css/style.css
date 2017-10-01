@@ -1,0 +1,47 @@
+
+#footer {
+	padding: 10px;
+	bottom: 10px;
+}
+.forms h3 {
+	padding-bottom: 20px;
+}
+.sticky {
+	position: absolute;
+	bottom: 20px;
+	left: 0px;
+	right: 0px;
+}
+
+header {
+	margin-bottom: 5%;
+	width: 100%;
+}
+
+.message-block {
+	margin-bottom: 30px;
+	padding: 10px;
+	color: #FFF !important;
+}
+button {
+	cursor: pointer;
+}
+#sent {
+	display: none;
+}
+#dashboard_header {
+	margin-top: 2%;
+}
+#welcome_header {
+	margin-top: 5%;
+}
+#search_text {
+	width: 100%;
+}
+.brand a:hover {
+	text-decoration: none;
+}
+.message_tabs .btn {
+	border-bottom-right-radius: 0px;
+	border-bottom-left-radius: 0px;
+}
